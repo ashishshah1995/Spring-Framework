@@ -49,11 +49,11 @@ Steps-
 
 # Bean Scope- LifeCycle of Bean
 
-1 -Default scope of bean is singleton
+1 Default scope of bean is singleton
  
 
-2 -Prototype - create new bean instance for each container req
+2 Prototype - create new bean instance for each container req
 
-3 -Request,session , global are Scoped for HTTP web apps.
+3 Request, session and global are scoped for HTTP web apps.
  
 
