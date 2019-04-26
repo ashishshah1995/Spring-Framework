@@ -29,7 +29,7 @@ Popular framework for building enterprise java application, it is simple and lig
 
 I have used 2 out of all injection methods
 
-# 1-Constructor injection
+## 1-Constructor injection
 
 Steps-
 
@@ -39,7 +39,7 @@ Steps-
 
 3- Configure the dependency in spring config file
 
-# 2-Setter injection
+## 2-Setter injection
 
 Steps-
 
