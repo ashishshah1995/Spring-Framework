@@ -31,6 +31,8 @@ I have used 2 out of all injection methods
 
 # 1-Constructor injection
 
+Steps-
+
 1- Define dependency interface and class
 
 2-Create constructor in your class for injections
@@ -38,6 +40,8 @@ I have used 2 out of all injection methods
 3- Configure the dependency in spring config file
 
 # 2-Setter injection
+
+Steps-
 
 1- Create setter method in your class for injections
 
