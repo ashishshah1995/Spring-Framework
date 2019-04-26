@@ -4,13 +4,15 @@ Popular framework for building enterprise java application, it is simple and lig
 
 # Running the application
 
-Step 1- Install Tomcat Server and link it with IDE 
-Step 2- Copy the 
+Step 1- Install Tomcat Server and connect it with IDE 
+Step 2- Adding the Jar files which are in lib folder -
+
+        Right click on Main project -> Properties-> Java Build Path -> Libraries -> Add Jar- Apply
 
 # Primary functions of Spring Container
 1- Create and Manage objects (Inversion of control - Outscource creation and management of objects)
 
-2- Inject object dependencied (Dependency Injection - loose coupling)
+2- Inject object dependencies (Dependency Injection - loose coupling)
 
 # Configuring Spring Container
 
