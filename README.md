@@ -25,7 +25,9 @@ Popular framework for building enterprise java application, it is simple and lig
 
 3- Retrieve Beans from Spring Container
 
-I have used 2 out of many injections methods 
+# Injections methods 
+
+I have used 2 out of all injection methods
 
 # Constructor injection
 
