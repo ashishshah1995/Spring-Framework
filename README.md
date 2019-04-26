@@ -47,7 +47,7 @@ Steps-
 
 2- Configure the depedency injection in Spring config file
 
-# Bean SCOPES- LifeCycle of Bean
+# Bean Scope- LifeCycle of Bean
 
 1 -Default scope of bean is singleton
  
