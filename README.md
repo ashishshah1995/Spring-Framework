@@ -2,14 +2,19 @@
 
 Popular framework for building enterprise java application, it is simple and lightweight, gives large number of helper class for build application.
 
-# PRIMARY FUNCTIONS of Spring Container are as follows
+# Primary functions of Spring Container are as follows
 1- Create and Manage objects (Inversion of control - Outscource creation and management of objects)
+
 2- Inject object dependencied (Dependency Injection - loose coupling)
 
 # Configuring Spring Container
+
  There are 3 ways for configuration of Spring Container. In this project I have used XML configuration file.
+ 
 1- XML configuration file
+
 2- Java annotation 
+
 3- Java source code 
 
 # Spring Development process
