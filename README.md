@@ -8,6 +8,14 @@ Step 1- Install Tomcat Server and connect it with IDE
 Step 2- Adding the Jar files which are in lib folder -
 
         Right click on Main project -> Properties-> Java Build Path -> Libraries -> Add Jar- Apply
+        
+# Classes and its functionalities
+
+1- ServerDemoApp is the main class which will read sport.properties file and display Information.
+
+2- BeanLifeCycleDemoApp shows and displays the lifecycle of the bean
+
+3- BeanScopeDemoApp shows the scope of the bean 
 
 # Primary functions of Spring Container
 1- Create and Manage objects (Inversion of control - Outscource creation and management of objects)
@@ -58,7 +66,6 @@ Steps-
 
 1  Singleton - Default scope of bean 
  
-
 2 Prototype - Create new bean instance for each container req
 
 3 Request, session and global are scoped for HTTP web apps.
