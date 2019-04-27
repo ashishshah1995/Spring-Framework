@@ -15,7 +15,7 @@ Step 2- Adding the Jar files which are in lib folder -
 
 2- BeanLifeCycleDemoApp shows and displays the lifecycle of the bean
 
-3- BeanScopeDemoApp shows the scope of the bean 
+3- BeanScopeDemoApp shows the scope of the bean (Singleton and Prototype)
 
 # Primary functions of Spring Container
 1- Create and Manage objects (Inversion of control - Outscource creation and management of objects)
